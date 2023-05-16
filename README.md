@@ -6,16 +6,19 @@ This repo contains the sections of the published volumes of the Generale missive
 
 First, install Text Fabric:
 
-```pip3 install text-fabric
+```bash
+pip3 install text-fabric
 ```
 
 Then download the Generale missiven:
-```text-fabric clariah/wp6-missieven
+
+```bash
+text-fabric clariah/wp6-missieven
 ```
 
-Use Python to extract the sections containing transcriptions of original letters: <link to ipynb file>. Copy the output to a txt file.
+Use Python to extract the sections containing transcriptions of original letters: <[link to ipynb file](https://github.com/globalise-huygens/globalise-generale-missiven-rgp/blob/main/tf.ipynb)>. Copy the output to a txt file.
 
 ## Split txt files and sort them into folders
 
-Use Python to split the txt files that contain all 
+Use Python to split the txt files that contain all original transcriptions of a volume into files separate files for each page. Use the references to volume, page and line on each line of the large txt file to name the newly created files and move them to a subdirectory. Also, remove the leading whitespace on each line and any blank lines. See <https://github.com/globalise-huygens/globalise-generale-missiven-rgp/blob/main/split_large_txt_file_into_smaller.ipynb> for the method used.
 
