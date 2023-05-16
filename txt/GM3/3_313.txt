@@ -1,0 +1,20 @@
+op’ t comptoir Toncquin .
+op’ t comptoir Nangasacki in Japan
+256. 5. 15
+864000. —. —
+“ / 1989059. 3. 9
+
+op ’t comptoir Arracan . ƒ 7015. 15. 1
+op ’t comptoir Siam . 2047. 4. 10
+op ’t comptoir Wingurla . 47067. 7. 12
+op ’t comptoir Tarnata . 74341. 2. 8
+op ’t comptoir Banda . 87391. 5. 4
+op ’t comptoir Amboina . 94529. 11. 14
+op ’t comptoir Malacca . 68883. 6. 12
+op d’voyagie naer Timor . 10259. 13. 4
+op ’t comptoir Batavia . 263467. 5. 15
+op d’onvoltrocken voyagie nae de Z. zee . 538. 17. 8
+op ’t comptoir Bengala . 6529. 7. 4
+op ’t comptoir Cheylon . 267576. 17. 11
+op d’expeditie onder d’hr. Van Goens . 68607. 8. 3
+

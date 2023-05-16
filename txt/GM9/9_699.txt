@@ -1,0 +1,1 @@
+replace broken OCR of landscape table by manual encoding ***
