@@ -16,7 +16,7 @@ Then download the Generale missiven:
 text-fabric clariah/wp6-missieven
 ```
 
-Use Python to extract the sections containing transcriptions of original letters: <(https://github.com/globalise-huygens/globalise-generale-missiven-rgp/blob/main/tf.ipynb>. Copy the output to a txt file.
+Use Python to extract the sections containing transcriptions of original letters: <https://github.com/globalise-huygens/globalise-generale-missiven-rgp/blob/main/tf.ipynb>. Copy the output to a txt file.
 
 ## Split txt files and sort them into folders
 
