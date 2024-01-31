@@ -22,3 +22,15 @@ Use Python to extract the sections containing transcriptions of original letters
 
 Use Python to split the txt files that contain all original transcriptions of a volume into files separate files for each page. Use the references to volume, page and line on each line of the large txt file to name the newly created files and move them to a subdirectory. Also, remove the leading whitespace on each line and blank lines if there are two or more blank lines following each other. See <https://github.com/globalise-huygens/globalise-generale-missiven-rgp/blob/main/split_large_txt_file_into_smaller.ipynb> for the method used.
 
+# License
+
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+
+This work is licensed under a
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
+
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
+
+[cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
+[cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
+[cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
